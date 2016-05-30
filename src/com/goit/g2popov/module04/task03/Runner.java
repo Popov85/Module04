@@ -1,4 +1,4 @@
-package task03;
+package com.goit.g2popov.module04.task03;
 
 /**
  * Created by Андрей on 30.05.2016.
